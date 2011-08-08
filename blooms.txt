@@ -1,21 +1,20 @@
-Group8
-Karl Edrian Garcia
-Denzel David
-Jericho Cruz
+Group 8
+>Karl Edrian M.Garcia
+>Denzel David
+>Jericho Cruz
 
-
+Application of Bloom's Taxonomy
 A.Knowledge:
->What is x?
->What is y?
+-What is x?
+-What is y?
 B.Comprehension:
--How can I get the value of x and y and how can i graph it?
+-How can I get the value of x and y and how can I graph it?
 C.Application:
 -Word problem
 D.Analysis:
--How can I get the value of x so I can get the value of y?
--How can I get the value of y so I can get the value of x?
+-How can I get x so I can gey y or how can I get y so I can get x?
 E.Synthesis:
--I can get the value of x and y by:
+-I can get x and y by:
 >Cancelling
 >Substitution
 >Isolating
