@@ -1,0 +1,23 @@
+Group8
+Karl Edrian Garcia
+Denzel David
+Jericho Cruz
+
+
+A.Knowledge:
+>What is x?
+>What is y?
+B.Comprehension:
+-How can I get the value of x and y and how can i graph it?
+C.Application:
+-Word problem
+D.Analysis:
+-How can I get the value of x so I can get the value of y?
+-How can I get the value of y so I can get the value of x?
+E.Synthesis:
+-I can get the value of x and y by:
+>Cancelling
+>Substitution
+>Isolating
+F.Evaluation:
+-Mathematics will be more easier to understand thus our course will have less difficulties.
